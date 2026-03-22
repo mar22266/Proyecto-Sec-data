@@ -1,0 +1,129 @@
+valor,conteo
+File and Directory Discovery [T1083],2569430
+Shared Modules [T1129],2455473
+System Information Discovery [T1082],2024786
+Obfuscated Files or Information [T1027],1951531
+Query Registry [T1012],885452
+Virtualization/Sandbox Evasion [T1497.001],534960
+Modify Registry [T1112],506169
+Command and Scripting Interpreter [T1059],488233
+Obfuscated Files or Information [T1027.002],414459
+Process Discovery [T1057],325296
+Access Token Manipulation [T1134],293886
+File and Directory Permissions Modification [T1222],292785
+Application Window Discovery [T1010],283436
+System Location Discovery [T1614],264891
+Create or Modify System Process [T1543.003],238248
+Input Capture [T1056.001],218563
+Clipboard Data [T1115],217820
+Obfuscated Files or Information [T1027.005],216236
+System Network Configuration Discovery [T1016],201712
+System Shutdown/Reboot [T1529],172112
+System Owner/User Discovery [T1033],169488
+System Location Discovery [T1614.001],168267
+Hide Artifacts [T1564.003],167997
+Account Discovery [T1087],112239
+Boot or Logon Autostart Execution [T1547.009],111786
+System Services [T1569.002],104522
+Software Discovery [T1518],102749
+Boot or Logon Autostart Execution [T1547.001],86522
+Video Capture [T1125],80553
+Screen Capture [T1113],69595
+System Service Discovery [T1007],68470
+Indicator Removal [T1070.004],51570
+Data from Information Repositories [T1213],49799
+Process Injection [T1055],46843
+Service Stop [T1489],44378
+Deobfuscate/Decode Files or Information [T1140],41797
+Virtualization/Sandbox Evasion [T1497.002],29771
+Ingress Tool Transfer [T1105],28962
+Windows Management Instrumentation [T1047],27827
+Reflective Code Loading [T1620],27410
+Indicator Removal [T1070.006],23555
+Access Token Manipulation [T1134.004],17556
+Network Share Discovery [T1135],17280
+Process Injection [T1055.003],15452
+Resource Hijacking [T1496],15419
+System Network Configuration Discovery [T1016.001],15327
+Access Token Manipulation [T1134.001],11797
+Scheduled Task/Job [T1053.005],11347
+Virtualization/Sandbox Evasion [T1497],10740
+Software Discovery [T1518.001],8378
+Hijack Execution Flow [T1574],6122
+Event Triggered Execution [T1546.001],4677
+Archive Collected Data [T1560.002],3914
+Impair Defenses [T1562.004],3833
+Process Injection [T1055.001],3582
+Audio Capture [T1123],3532
+Boot or Logon Autostart Execution [T1547.004],3515
+Account Manipulation [T1098],2880
+Impair Defenses [T1562.001],2450
+Process Injection [T1055.012],2410
+Pre-OS Boot [T1542.001],2304
+Gather Victim Host Information [T1592.003],2158
+Event Triggered Execution [T1546.010],1945
+Command and Scripting Interpreter [T1059.003],1929
+Data Manipulation [T1565.002],1799
+Debugger Evasion [T1622],1691
+Event Triggered Execution [T1546.015],1597
+Permission Groups Discovery [T1069],1597
+Credentials from Password Stores [T1555.003],1440
+Event Triggered Execution [T1546],1394
+Scheduled Task/Job [T1053.002],1224
+Command and Scripting Interpreter [T1059.006],1137
+Endpoint Denial of Service [T1499],1135
+Indicator Removal [T1070.001],1056
+Device Driver Discovery [T1652],946
+Event Triggered Execution [T1546.011],878
+Create Account [T1136],869
+Hijack Execution Flow [T1574.007],846
+Process Injection [T1055.004],842
+Credentials from Password Stores [T1555.004],806
+Indicator Removal [T1070],804
+Credentials from Password Stores [T1555],781
+Subvert Trust Controls [T1553.005],729
+Abuse Elevation Control Mechanism [T1548.002],703
+Account Access Removal [T1531],700
+Hide Artifacts [T1564],618
+Impair Defenses [T1562.009],554
+Native API [T1106],545
+BITS Jobs [T1197],526
+Boot or Logon Autostart Execution [T1547.005],390
+Inhibit System Recovery [T1490],369
+Application Layer Protocol [T1071.001],368
+Server Software Component [T1505.004],359
+Server Software Component [T1505],337
+Domain Trust Discovery [T1482],329
+Boot or Logon Autostart Execution [T1547.014],320
+Command and Scripting Interpreter [T1059.001],319
+Office Application Startup [T1137.006],309
+Disk Wipe [T1561.002],271
+Obfuscated Files or Information [T1027.004],212
+Impair Defenses [T1562],208
+Process Injection [T1055.002],192
+Event Triggered Execution [T1546.002],184
+Process Injection [T1055.013],158
+Modify Authentication Process [T1556.008],152
+Event Triggered Execution [T1546.012],142
+Network Sniffing [T1040],126
+Exfiltration Over Web Service [T1567.002],124
+Boot or Logon Autostart Execution [T1547.002],82
+Group Policy Discovery [T1615],53
+Boot or Logon Autostart Execution [T1547.012],33
+Boot or Logon Autostart Execution [T1547.003],28
+Boot or Logon Autostart Execution [T1547.010],28
+Obfuscated Files or Information [T1027.007],26
+Exploitation for Credential Access [T1212],25
+Event Triggered Execution [T1546.008],18
+Modify Authentication Process [T1556.002],16
+Subvert Trust Controls [T1553.006],12
+Boot or Logon Initialization Scripts [T1037.001],10
+Event Triggered Execution [T1546.009],6
+Command and Scripting Interpreter [T1059.005],4
+Command and Scripting Interpreter [T1059.007],4
+Inter-Process Communication [T1559.001],4
+Hide Artifacts [T1564.005],3
+Process Injection [T1055.011],3
+Browser Extensions [T1176],2
+Container and Resource Discovery [T1613],2
+Event Triggered Execution [T1546.013],2

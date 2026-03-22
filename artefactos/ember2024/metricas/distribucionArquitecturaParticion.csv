@@ -1,0 +1,5 @@
+arquitectura,particion,conteo
+Win32,test,720000
+Win32,train,3120000
+Win64,test,240000
+Win64,train,1040000

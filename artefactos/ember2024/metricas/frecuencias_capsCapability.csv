@@ -1,0 +1,201 @@
+valor,conteo
+Link function at runtime on windows,1064218
+Encode data using xor,923201
+Write file on windows,882094
+Terminate process,813241
+Read file on windows,709378
+Get common file path,668147
+Create process on windows,627505
+Query environment variable,612645
+Query or enumerate registry value,610833
+Contains pdb path,589038
+Resolve function by parsing pe exports,587764
+Delete file,582023
+Parse pe header,561036
+Check if file exists,536061
+Create thread,523869
+Get file attributes,487416
+Create directory,482583
+Accept command line arguments,480905
+Enumerate files on windows,434585
+Set registry value,417416
+Get file size,404580
+Get thread local storage value,403120
+Link many functions at runtime,366358
+(internal) packer file limitation,352024
+Delete directory,351763
+Extract resource via kernel32 functions,332086
+Reference analysis tools strings,317085
+Enumerate pe sections,311774
+Check os version,296111
+Hash data with crc32,294543
+Contain a thread local storage (.tls) section,294412
+Set file attributes,292785
+Move file,292316
+Set environment variable,278394
+Access peb ldr_data,275588
+Query or enumerate registry key,274578
+Set thread local storage value,272219
+Get geographical location,264891
+Allocate thread local storage,259287
+Get system information on windows,259176
+Delete registry value,257048
+Print debug messages,253671
+Get disk information,250490
+Delete registry key,248703
+Contain an embedded pe file,247874
+Allocate or change rwx memory,241822
+Clear file content,238743
+Modify access privileges,238618
+Create or open mutex on windows,230990
+Set current directory,230564
+Get graphical window text,230049
+Encrypt data using rc4 prga,229218
+Copy file,219994
+Packed with generic packer,217018
+Check for time delay via gettickcount,214440
+Contain obfuscated stackstrings,211594
+Get disk size,208700
+Read .ini file,201823
+Find graphical window,200707
+Reference base64 string,189939
+Reference anti-vm strings targeting xen,189275
+Get file version info,188566
+Enumerate files recursively,188320
+Shutdown system,172112
+Hide graphical window,167405
+Receive data,163664
+(internal) installer file limitation,147737
+Open clipboard,147520
+Log keystrokes via polling,144959
+Create process suspended,143537
+Encode data using base64,143310
+Packed with upx,140702
+Write clipboard data,140214
+Send data,135610
+Linked against zlib,135245
+Resume thread,129166
+Get hostname,127269
+Get file system object information,125387
+Get number of processors,123058
+Identify system language via api,121890
+Initialize winsock library,121740
+Hash data with md5,114742
+Receive data on socket,113819
+Interact with driver via ioctl,110340
+Hash data using fnv,108808
+Create shortcut via ishelllink,108585
+Compress data via zlib inflate or deflate,106053
+Send data on socket,105217
+Check mutex on windows,104712
+Reference anti-vm strings targeting virtualbox,103415
+Resolve dns,101817
+Reference anti-vm strings,101774
+Read file via mapping,100293
+Set socket configuration,99956
+Compute adler32 checksum,97985
+Enumerate processes,93597
+Terminate thread,90665
+Get session user name,89096
+Get process heap flags,88529
+Connect socket,88486
+Generate random numbers using the delphi lcg,87641
+Create pipe,86263
+Parse credit card information,86056
+Get kernel32 base address,85533
+Check for software breakpoints,85267
+Hash data using sha1,84004
+Enumerate gui resources,82729
+Capture webcam image,80551
+Get ntdll base address,78737
+Check for time delay via queryperformancecounter,78387
+Compiled with borland delphi,77417
+Execute shellcode via indirect call,73947
+Check http status code,73906
+Hash data using murmur3,73785
+Encrypt data using rc4 ksa,72269
+Set application hook,70519
+Get socket status,70442
+Get token membership,70029
+Compare security identifiers,69641
+Capture screenshot,69238
+Get memory capacity,68977
+Write and execute a file,68573
+Packaged as a nsis installer,67835
+Get process heap force flags,66788
+Inspect section memory permissions,66253
+Suspend thread,66103
+Implement com dll,66077
+Authenticate hmac,65118
+Read clipboard data,64319
+Linked against cpp standard library,63741
+Hash data using sha256,63734
+Generate random numbers via winapi,63333
+Persist via run registry key,62921
+Get local ipv4 addresses,62086
+Create http request,61939
+Read pipe,59389
+Inspect load icon resource,58746
+Reference anti-vm strings targeting qemu,58313
+Connect pipe,57526
+Log keystrokes,57479
+Reference anti-vm strings targeting vmware,57062
+Read data from internet,55994
+Acquire debug privileges,55268
+Create udp socket,55217
+Create tcp socket,53378
+Query service status,53178
+Get socket information,53094
+Run as service,51336
+Initialize hashing via wincrypt,51106
+Enumerate process modules,51059
+Self delete,50682
+Write pipe,50104
+Access the windows event log,48580
+Connect to http server,47293
+Packaged as an inno setup installer,47137
+Hash data via wincrypt,46600
+Get keyboard layout,46377
+Start service,46149
+Send http request,45813
+Stop service,44378
+Encrypt data using aes,44093
+Reference aes constants,42515
+Delete service,38436
+Modify service,38350
+Act as tcp client,37715
+Connect tcp socket,37398
+Create service,36984
+Create new key via cryptacquirecontext,33756
+Check for peb beingdebugged flag,33624
+Hash data using djb2,32200
+Reference sql statements,32188
+Parse url,31787
+Encode data using add xor sub operations,31111
+Encrypt data using aes via x86 extensions,31092
+Execute anti-debugging instructions,30431
+Decrypt data using aes via x86 extensions,29631
+Persist via windows service,29188
+Receive and write data from server to client,28962
+Download and write a file,28962
+Generate random numbers via rtlgenrandom,28405
+Encrypt data using speck,27862
+Get comspec environment variable,27740
+Generate random numbers using a mersenne twister,27454
+Connect to wmi namespace via wbemlocator,27078
+Debug build,27020
+Decompress data using aplib,26958
+Set global application hook,26853
+Check for unmoving mouse cursor,26774
+Linked against cpp regex library,26636
+Connect udp socket,26423
+Compiled from visual basic,26415
+(internal) visual basic file limitation,26415
+Connect to url,25582
+Compiled to the .net platform,23897
+(internal) .net file limitation,23897
+Timestomp file,23555
+Create a process with modified i/o handles and window,23365
+Get storage device properties,22679
+Check for peb ntglobalflag flag,22468
+Initialize winhttp library,21813

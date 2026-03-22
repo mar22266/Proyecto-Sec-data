@@ -1,0 +1,9 @@
+arquitectura,particion,label,conteo
+Win32,test,0,360000
+Win32,test,1,360000
+Win32,train,0,1560000
+Win32,train,1,1560000
+Win64,test,0,120000
+Win64,test,1,120000
+Win64,train,0,520000
+Win64,train,1,520000

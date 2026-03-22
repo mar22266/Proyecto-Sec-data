@@ -1,0 +1,201 @@
+valor,conteo
+File and Directory Discovery [E1083],2422194
+System Information Discovery [E1082],1508409
+Writes File [C0052],1131463
+Obfuscated Files or Information [E1027.m02],1071705
+Read File [C0051],1011520
+Dynamic Analysis Evasion [B0003.003],953730
+Allocate Memory [C0007],931313
+Encode Data [C0026.002],923201
+Create File [C0016],878351
+Terminate Process [C0018],821707
+Create Process [C0017],671805
+Registry [C0036.003],635036
+Registry [C0036.004],635003
+Registry [C0036.006],610874
+Delete File [C0047],582025
+Debugger Detection [B0001.019],553884
+Modulo [C0058],538044
+Create Thread [C0038],531125
+Virtual Machine Detection [B0009],522955
+Get File Attributes [C0049],487416
+Create Directory [C0046],482583
+Command and Scripting Interpreter [E1059],481224
+Registry [C0036.001],417448
+Delete Directory [C0048],351763
+Encode Data [C0026.001],338288
+Analysis Tool Discovery [B0013.001],317085
+Install Additional Program [B0023],316447
+Code Discovery [B0046.001],311859
+Encrypt Data [C0027.009],306480
+Checksum [C0032.001],294543
+Set File Attributes [C0050],292807
+Move File [C0063],292316
+Change Memory Protection [C0008],284016
+Environment Variable [C0034.001],278394
+Check String [C0019],275995
+Registry [C0036.005],274578
+Set Thread Local Storage Value [C0041],272219
+Allocate Thread Local Storage [C0040],259287
+Registry [C0036.007],257088
+Registry [C0036.002],248743
+Create Mutex [C0042],230990
+Application Window Discovery [E1010],230049
+Generate Pseudo-random Sequence [C0021.004],229218
+Copy File [C0045],219994
+Software Packing [F0001.002],217021
+Debugger Detection [B0001.032],214440
+Executable Code Obfuscation [B0032.020],211594
+Executable Code Obfuscation [B0032.017],211594
+Open Process [C0065],204826
+Obfuscated Files or Information [E1027.m05],186106
+C2 Communication [B0030.002],163664
+Keylogging [F0002.002],144959
+Create Process [C0017.003],143537
+Software Packing [F0001.008],140702
+Compression Library [C0060],140576
+Clipboard Modification [E1510],140214
+C2 Communication [B0030.001],135610
+Resume Thread [C0054],129166
+Socket Communication [C0001.009],121740
+Generate Pseudo-random Sequence [C0021],115095
+Cryptographic Hash [C0029.001],114742
+Socket Communication [C0001.006],113819
+Check Mutex [C0043],113172
+Compress Data [C0024],110336
+Non-Cryptographic Hash [C0030.005],108808
+Socket Communication [C0001.007],105217
+DNS Communication [C0011.001],101817
+Socket Communication [C0001.001],99956
+Checksum [C0032.005],97985
+Generate Pseudo-random Sequence [C0021.003],94217
+Interprocess Communication [C0003.001],93117
+HTTP Communication [C0002.014],90753
+Terminate Thread [C0039],90665
+Encrypt Data [C0027.001],85434
+Debugger Detection [B0001.025],85267
+Cryptographic Hash [C0029.002],84004
+HTTP Communication [C0002.012],80829
+Debugger Detection [B0001.033],78387
+HTTP Communication [C0002.017],78307
+Non-Cryptographic Hash [C0030.001],73785
+Encryption Key [C0028.002],72269
+Socket Communication [C0001.012],70442
+Screen Capture [E1113.m01],69584
+Code Discovery [B0046.002],66253
+Suspend Thread [C0055],66103
+Hashed Message Authentication Code [C0061],65118
+Cryptographic Hash [C0029.003],63734
+Registry Run Keys / Startup Folder [F0012],62921
+Interprocess Communication [C0003.003],59389
+Interprocess Communication [C0003.002],57526
+Cryptographic Hash [C0029],56929
+Socket Communication [C0001.010],55217
+Socket Communication [C0001.011],53383
+Conditional Execution [B0025.007],51336
+Self Deletion [F0007.001],50682
+Interprocess Communication [C0003.004],50104
+File and Directory Discovery [E1083.m01],48580
+HTTP Communication [C0002.009],47293
+HTTP Communication [C0002.003],46033
+Encrypt Data [C0027],42503
+Socket Communication [C0001.008],37715
+Socket Communication [C0001.004],37398
+Software Packing [F0001],34413
+Encryption Key [C0028],34007
+Debugger Detection [B0001.035],33624
+Checksum [C0032.002],33541
+HTTP Communication [C0002],32272
+Non-Cryptographic Hash [C0030.006],32200
+Obfuscated Files or Information [E1027.m03],31111
+Debugger Detection [B0001.034],30431
+Virtual Machine Detection [B0009.012],29771
+Decrypt Data [C0031.001],29631
+C2 Communication [B0030.003],28962
+Crypto Library [C0059],28680
+Console [C0033],27928
+Environment Variable [C0034],27740
+Decompress Data [C0025.003],26958
+Socket Communication [C0001.013],26423
+HTTP Communication [C0002.004],25582
+Open Thread [C0066],25248
+Decrypt Data [C0031],24182
+Debugger Detection [B0001.036],22468
+HTTP Communication [C0002.008],21813
+Encrypt Data [C0027.004],18787
+Taskbar Discovery [B0043],18376
+Keylogging [F0002.001],16120
+Cryptographic Hash [C0029.004],13902
+HTTP Communication [C0002.006],13505
+Encrypt Data [C0027.002],13137
+HTTP Communication [C0002.013],12662
+Software Packing [F0001.011],12498
+Enumerate Threads [C0064],11715
+Disable or Evade Security Tools [F0004.007],11698
+Socket Communication [C0001.005],11474
+Virtual Machine Detection [B0009.034],10248
+Virtual Machine Detection [B0009.029],8686
+Software Packing [F0001.010],8606
+Disassembler Evasion [B0012],7099
+ICMP Communication [C0014.002],5549
+Encrypt Data [C0027.003],5517
+Decompress Data [C0025.001],5304
+Interprocess Communication [C0003],5028
+HTTP Communication [C0002.005],5019
+Encrypt Data [C0027.006],4777
+Encrypt Data [C0027.011],4140
+Debugger Detection [B0001.002],3635
+Debugger Detection [B0001.031],3635
+HTTP Communication [C0002.010],3617
+Virtual Machine Detection [B0009.025],3531
+Socket Communication [C0001.003],3402
+Decompress Data [C0025],3005
+Encrypt Data [C0027.005],2336
+Decode Data [C0053.001],2303
+Hijack Execution Flow [F0015.006],2140
+Debugger Detection [B0001],2131
+Wallpaper [C0035],2065
+Disable or Evade Security Tools [F0004.008],1899
+Encrypt Data [C0027.010],1854
+Process Injection [E1055],1758
+Debugger Evasion [B0002],1691
+Disable or Evade Security Tools [F0004],1569
+Emulator Detection [B0004],1377
+Remote Access [B0022.001],1322
+Encryption Key [C0028.001],1288
+Install Driver [C0037],1131
+Install Driver [C0037.001],1128
+Sandbox Detection [B0007],1116
+Load Driver [C0023.001],1090
+Hijack Execution Flow [F0015.003],974
+Debugger Detection [B0001.012],928
+Encode Data [C0026],818
+HTTP Communication [C0002.018],791
+Disable or Evade Security Tools [F0004.005],760
+HTTP Communication [C0002.011],739
+Executable Code Obfuscation [B0032],687
+Process Injection [E1055.m04],675
+FTP Communication [C0004.001],661
+FTP Communication [C0004.002],661
+Self Deletion [F0007],635
+Non-Cryptographic Hash [C0030],524
+Cryptographic Hash [C0029.005],518
+Debugger Detection [B0001.016],484
+Modify Hardware [B0042.002],416
+Simulate Hardware [C0057.001],404
+HTTP Communication [C0002.016],301
+Disk Wipe [F0014],271
+HTTP Communication [C0002.015],259
+Data Destruction [E1485.m04],253
+Modify Hardware [B0042.001],231
+Debugger Detection [B0001.010],210
+Debugger Detection [B0001.024],158
+Debugger Detection [B0001.005],135
+Socket Communication [C0001.014],124
+Disable or Evade Security Tools [F0004.009],121
+Decrypt Data [C0031.010],113
+Encrypt Data [C0027.013],100
+Software Packing [F0001.009],78
+Process Injection [E1055.m05],71
+Free Memory [C0044],62
+DNS Communication [C0011.002],49

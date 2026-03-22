@@ -1,0 +1,14 @@
+metrica,valor
+totalRegistros,5120000.0
+familyConDato,2199260.0
+ratioFamilyConDato,0.42954296875
+filasConBehavior,1213722.0
+ratioBehavior,0.237055078125
+filasConFileProperty,95284.0
+ratioFileProperty,0.01861015625
+filasConPacker,196464.0
+ratioPacker,0.038371875
+filasConExploit,2518.0
+ratioExploit,0.000491796875
+filasConGroup,31600.0
+ratioGroup,0.006171875
